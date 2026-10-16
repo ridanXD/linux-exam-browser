@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/banner.jpeg" alt="Linux Exam Browser" width="750"/>
 </p>
-# UNDER DEVELOPMENT
+
+# UNDER DEVELOPMENT, THE FINAL RELEASE WILL SOON ASAP
 
 # Linux Exam Browser (LEB)
 
